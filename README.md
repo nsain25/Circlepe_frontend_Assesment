@@ -11,4 +11,5 @@ As an attempt, I have created the 2D static design of the most basic level of th
 Tools used: Figma, Github ( for deployment )
 
 Link to design: https://www.figma.com/design/weeAu0mlEARCIRTqL6MwpE/Untitled?node-id=0-1&t=6oWKdZJyapNMqFyF-1
+
 Link to prototype: https://www.figma.com/proto/weeAu0mlEARCIRTqL6MwpE/Untitled?node-id=1-2&node-type=CANVAS&t=dgmOH5YU7fIbt10h-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1
